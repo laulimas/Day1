@@ -1,0 +1,8 @@
+.box {
+    display: inline-block;
+    width: 2em;
+    height: 6em;
+    background-color: tomato;
+    color: thistle;
+    font-size: 25px;
+}
